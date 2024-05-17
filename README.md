@@ -4,7 +4,7 @@
 ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvkIsxdcEtyIJMm0XTMW4KJrkjUIpGdWanwyE7Upp5LfCYNg4NZcVBVJ9nlr2IGbTTsUFJXRXVzoQRee4bChl7gxWZsgpqd8PxF0cLfxfnHR4bSpnomuVIeCzD30Keh4JqlhRw9yYyAnQsBvOriVi5mfQkAaVUfC8WYuMKZfar3N7NOIyZjetkg4S6QzMp/s3889/cover.png)
 
 
-<a href="https://github.com/MrNitishroy/News-App-In-Flutter-With-API/releases/download/1.0.0/News.App.apk"> ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8VHjsFs7OFZNltdExCG3nUW-nkhP6fWO7Ojgn-8ovZmu4jYb3JSxcckMtumkd0CNiA4KiXa8qJtMcre3xMhhPUzKvXl60c8KJ6oLuTYl-SMW4y3mQ8gFVFDDqoVic6-HjQ8KchNyfP00woGlbWcMamcLOa3HMmkUEUJMwDtKoT1XNHg3QgG5qqaeAlsSX/s885/Download.png) </a>
+<!-- <a href="https://github.com/MrNitishroy/News-App-In-Flutter-With-API/releases/download/1.0.0/News.App.apk"> ![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8VHjsFs7OFZNltdExCG3nUW-nkhP6fWO7Ojgn-8ovZmu4jYb3JSxcckMtumkd0CNiA4KiXa8qJtMcre3xMhhPUzKvXl60c8KJ6oLuTYl-SMW4y3mQ8gFVFDDqoVic6-HjQ8KchNyfP00woGlbWcMamcLOa3HMmkUEUJMwDtKoT1XNHg3QgG5qqaeAlsSX/s885/Download.png) </a> -->
 
 ## Tech Stack
 
@@ -26,8 +26,5 @@
 
 ## Authors
 
-- [@Sylvisahoo](https://github.com/MrNitishroy/News-App-In-Flutter-With-API)
-
-
-![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfJ8TgKQ7AUxjFRkMTdmze5GpZIX3TC7x01X4TISrwc7tFphats8zsYXofRSHcppr1NdeSuYHuhDY21MRRsnWYjUGA_IujXsJlVdQbhVQyhd_WJlkNPbe18B-0WqP0hTa8rflyNAfkbKnIL4LvAwdp23iplJnV8QGKb_hGOsvhr0zKtJeF0uFMHH9rJCMT/s3075/bannel.png)
+- [@Sylvisahoo](https://github.com/sylvi970/News-App-With-News-API)
 
